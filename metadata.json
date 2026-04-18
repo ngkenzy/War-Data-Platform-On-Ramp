@@ -1,0 +1,5 @@
+{
+  "name": "Advana Onramp AI Agent",
+  "description": "A specialized Governance and DataOps expert for the War Data Platform (WDP), ensuring compliant data onboarding with CDAO standards.",
+  "requestFramePermissions": []
+}
